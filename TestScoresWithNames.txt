@@ -1,0 +1,17 @@
+8 
+77
+Mickey Mouse
+94
+Donald Duck
+82
+Bugs Bunny
+98
+Tweety Bird
+73
+Road Runner
+85
+Minnie Mouse
+56
+Goofy
+67
+Dumbo
